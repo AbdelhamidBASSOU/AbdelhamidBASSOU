@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhamidbassou&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhamidbassou" /> </p>
 
-- 🔭 I’m currently working on **improving my salesforce CRM developer skills**
+- 🔭 I’m currently trying to **improve my salesforce CRM developer skills**
 
 - 🌱 I’m currently learning **Salesforce**
 
