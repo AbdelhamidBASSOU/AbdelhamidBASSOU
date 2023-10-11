@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://camo.githubusercontent.com/d8e0ee3a1fd54ce87703eb68df08fec585f416a5ac492555a3d503ff33d31b60/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f73616269726c6b68616c6f7566693f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&amp;style=social" style="max-width:100%"> </p>
+<p align="left"> </p>
 
 - 🔭 I’m currently trying to **improve my salesforce CRM developer skills**
 
