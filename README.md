@@ -2,13 +2,11 @@
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div style="display: flex; align-items: center;">
-  <!-- Visitor Counter -->
-  ![Visitors](https://shields.io/github/followers/abdelhamidbassou?label=Visitors)
+<!-- Visitor Counter -->
+![Visitors](https://shields.io/github/followers/abdelhamidbassou?label=Visitors)
 
-  <!-- GitHub Follow Button -->
-  [![GitHub Follow](https://img.shields.io/github/followers/abdelhamidbassou?label=Follow&style=social)](https://github.com/abdelhamidbassou)
-</div>
+<!-- GitHub Follow Button -->
+[![GitHub Follow](https://img.shields.io/github/followers/abdelhamidbassou?label=Follow&style=social)](https://github.com/abdelhamidbassou)
 
 <p align="left">
 - 🔭 I’m currently trying to **improve my Salesforce CRM developer skills**
